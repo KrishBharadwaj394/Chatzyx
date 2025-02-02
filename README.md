@@ -44,7 +44,6 @@ Chatzyx is a dynamic and engaging chat platform that connects random users world
 - Backend: Node.js and WebSocket for real-time communication.
 - Multer – Used for handling file uploads like images, videos, and PDFs from the frontend to the backend.
 
-
 ## **Contributing**
 
 If you would like to contribute to Chatzyx, feel free to fork the repository, make your changes, and submit a pull request.
