@@ -47,9 +47,3 @@ See how many users are online in real-time.
 ## **Contributing**
 
 If you would like to contribute to Chatzyx, feel free to fork the repository, make your changes, and submit a pull request.
-
-### Steps:
-1. Fork the repo.
-2. Create a new branch for your feature.
-3. Commit your changes and push them to your forked repository.
-4. Open a pull request to merge your changes.
