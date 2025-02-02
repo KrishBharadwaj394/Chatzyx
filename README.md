@@ -27,7 +27,7 @@ Chatzyx is a dynamic and engaging chat platform that connects random users world
     ```
 2. Navigate to the project directory:
     ```bash
-    cd chatzyx
+    cd Chatzyx
     ```
 3. Install dependencies:
     ```bash
@@ -37,15 +37,6 @@ Chatzyx is a dynamic and engaging chat platform that connects random users world
     ```bash
     node app.js
     ```
-
-## **Usage**
-
-1. Launch the app and sign in to start chatting.
-2. Tap the "Connect" button to match with a random user.
-3. Share text, images, videos, or PDFs using the file input options.
-4. Customize your notifications by going to the settings page.
-5. Change your username under the profile settings.
-6. See the total number of active users at the top of the main chat window.
 
 ## **Technologies Used**
 
