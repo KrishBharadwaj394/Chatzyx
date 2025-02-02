@@ -7,16 +7,16 @@ Chatzyx is a dynamic and engaging chat platform that connects random users world
 💬 **Random Chatting** 
 Chat instantly with random users and make new connections.
 
-📸 Media Sharing
+📸 **Media Sharing**
 Share images, videos, and PDFs with ease.
 
-🔔 Custom Notifications
+🔔 **Custom Notifications**
 Personalize your notification ringtones.
 
-✨ Name Customization
+✨ **Name Customization**
 Change your display name for a personalized experience.
 
-👥 Active Users Count
+👥 **Active Users Count**
 See how many users are online in real-time.
 
 ## **Installation**
