@@ -40,10 +40,10 @@ Chatzyx is a dynamic and engaging chat platform that connects random users world
 
 ## **Technologies Used**
 
-- React.js for the frontend.
-- Node.js and WebSocket for real-time communication.
-- Firebase (or any other service) for user authentication and active user count.
-- Cloud Storage (e.g., AWS S3) for storing and sharing media files.
+- Frontend: HTML, CSS, JavaScript.
+- Backend: Node.js and WebSocket for real-time communication.
+- Multer – Used for handling file uploads like images, videos, and PDFs from the frontend to the backend.
+
 
 ## **Contributing**
 
