@@ -1,7 +1,3 @@
-Here’s a **README** for **Chatzyx**, based on the features you provided:
-
----
-
 # **Chatzyx**
 
 Chatzyx is a dynamic and engaging chat platform that connects random users worldwide for real-time conversations. Whether you want to share text, images, videos, or even PDFs, Chatzyx enables seamless communication. With additional features like custom notifications, name changes, and active user count, Chatzyx offers a rich chatting experience.
