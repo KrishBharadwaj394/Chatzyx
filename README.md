@@ -4,19 +4,19 @@ Chatzyx is a dynamic and engaging chat platform that connects random users world
 
 ## **Features**
 
-- **Random Chatting**  
+- **💬 Random Chatting**  
   Connect with random users and start chatting instantly. Enjoy conversations with strangers and build new connections across the globe.
 
-- **Media Sharing**  
+- **📸 Media Sharing**  
   Share images, videos, and PDF files with ease. Whether it's a funny meme or an important document, Chatzyx supports various media types.
 
-- **Custom Notifications**  
+- **🔔 Custom Notifications**  
   Personalize your experience with notification ringtones, so you know when someone messages you.
 
-- **Name Customization**  
+- **✨ Name Customization**  
   Users can change their display names to personalize their profile and experience.
 
-- **Active Users Count**  
+- **👥 Active Users Count**  
   Keep track of the number of active users online. See how many people are currently using Chatzyx for real-time chats.
 
 ## **Installation**
