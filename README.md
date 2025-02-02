@@ -4,7 +4,7 @@ Chatzyx is a dynamic and engaging chat platform that connects random users world
 
 ## **Features**
 
-- **Random Chatting 💬** 
+💬 **Random Chatting ** 
 Chat instantly with random users and make new connections.
 
 📸 Media Sharing
