@@ -23,7 +23,7 @@ Chatzyx is a dynamic and engaging chat platform that connects random users world
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chatzyx.git
+    git clone https://github.com/KrishBharadwaj394/Chatzyx.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -35,7 +35,7 @@ Chatzyx is a dynamic and engaging chat platform that connects random users world
     ```
 4. Start the development server:
     ```bash
-    npm start
+    node app.js
     ```
 
 ## **Usage**
