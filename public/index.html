@@ -71,6 +71,34 @@
       margin-right: auto; /* Push the message to the left */
     }
 
+    @media (min-width: 320px) and (max-width: 328px) {
+      .send-btn,.upload-btn{
+        position: relative;
+        right: 1.5rem;
+        width: 40px;
+      }
+
+      .fa-paper-plane,.fa-upload{
+        font-size: 16px;
+      }
+      
+      
+    }
+
+    @media (min-width: 329px) and (max-width: 340px) {
+      .send-btn,.upload-btn{
+        position: relative;
+        right: .3rem;
+      }
+      
+    }
+
+    @media (min-width: 341px) { 
+      .fa-paper-plane,.fa-upload{
+        font-size: 18px;
+      }
+
+    }
 
   </style>
 </head>
@@ -102,20 +130,20 @@
     <!-- Message Input -->
     <form class="flex items-center bg-gray-700 px-4 py-3 border-t border-gray-600" id="message-form">
       <!-- Text Input on the left -->
-      <input type="text" id="message-input" class="flex-1 bg-transparent text-white placeholder-gray-400 outline-none md:py-2 md:px-3 py-0 px-0 text-md" placeholder="Type a message">
+      <input type="text" id="message-input" class="flex-1 bg-transparent text-white placeholder-gray-400 outline-none md:py-2 md:px-3 py-0 px-0 text-md message" placeholder="Type a message">
 
       <!-- File Upload Button -->
       <input type="file" id="file-input" accept="image/*,video/*,audio/*,.pdf" class="bg-transparent text-white placeholder-gray-400 outline-none py-2 px-3" style="display:none;">
 
         <!-- Upload Button -->
-      <button type="button" id="upload-btn" class="bg-green-500 hover:bg-green-600 text-white px-3 py-2 md:px-4 md:py-2 rounded-lg shadow flex items-center ml-3 text-sm md:text-md">
-        <i class="fas fa-upload md:mr-2 text-lg md:text-md"></i> 
+      <button type="button" id="upload-btn" class="bg-green-500 hover:bg-green-600 text-white px-3 py-3 md:px-4 md:py-2 rounded-lg shadow upload-btn flex items-center ml-3 text-sm md:text-md">
+        <i class="fas fa-upload md:mr-2  md:text-md"></i> 
         <span class="hidden md:inline">Upload</span>
       </button>
 
       <!-- Send Button -->
-      <button type="submit" class="ml-3 bg-blue-500 hover:bg-blue-600 text-white md:px-4 md:py-2 px-3 py-2 rounded-lg shadow flex items-center send-btn text-sm md:text-md">
-        <i class="fas fa-paper-plane md:mr-2 text-lg md:text-md"></i> 
+      <button type="submit" class="ml-3 bg-blue-500 hover:bg-blue-600 text-white md:px-4 md:py-2 px-3 py-3 rounded-lg shadow flex items-center send-btn text-sm md:text-md">
+        <i class="fas fa-paper-plane md:mr-2 md:text-md"></i> 
         <span class="hidden md:inline">Send</span>
       </button>
 
