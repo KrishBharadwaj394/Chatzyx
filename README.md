@@ -11,7 +11,7 @@ Chatzyx is a dynamic and engaging chat platform that connects random users world
   Share images, videos, and PDF files with ease. Whether it's a funny meme or an important document, Chatzyx supports various media types.
 
 - **Custom Notifications**  
-  Personalize your experience with custom notification ringtones, so you know when someone messages you.
+  Personalize your experience with notification ringtones, so you know when someone messages you.
 
 - **Name Customization**  
   Users can change their display names to personalize their profile and experience.
